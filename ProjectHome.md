@@ -1,0 +1,1 @@
+Online newspaper is impemented here.Here reporter can submit their reports,editor can edit news.Advanced search for news is included.
